@@ -1,12 +1,25 @@
 <!DOCTYPE html>
-<html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
-layout:decorate="~{layouts/application.html}">
-
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <head>
   <title>Sign Up</title>
 </head>
 <section layout:fragment="content">
-  <!-- BEGIN -->
-  
-  <!-- END -->
+  <h1>Create new user</h1>
+  <form action="/user" method="post" th:object="${user}">
+    <div class="mb-3">
+      <label>Firstname</label>
+      <input class="form-control" type="firstname" name="firstname">
+    </div>
+    <div class="mb-3">
+      <label>Lastname</label>
+      <input class="form-control" type="lastname" name="lastname">
+    </div>
+    <div class="mb-3">
+      <label>Email</label>
+      <input class="form-control" type="email" name="email">
+    </div>
+    <h1></h1>
+    <button class="btn btn-primary" type="create">Create</button>
+  </form>
 </section>

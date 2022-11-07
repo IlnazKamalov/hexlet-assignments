@@ -235,9 +235,14 @@ class AppTest {
         assertThat(afterLoginContent).contains("suzann.barrows@hotmail.com");
     }
 
-    // BEGIN
-    
-    // END
+    @Test
+    void testNewUser() throws IOException, ParseException {// new test
+        CloseableHttpClient client = HttpClients.createDefault();
+        HttpGet httpGet = new HttpGet(baseUrl + "/users/new");
+        CloseableHttpResponse response1 = client.execute(httpGet);
+
+        assertThat(response1.getCode()).isEqualTo(200);
+    }
 
     @AfterAll
     public static void tearDown() throws LifecycleException, IOException {

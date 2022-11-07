@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-11-07T10:11:41.089913677Z</date>
-  <millis>1667815901089</millis>
-  <nanos>913677</nanos>
+  <date>2022-11-07T12:12:34.601981065Z</date>
+  <millis>1667823154601</millis>
+  <nanos>981065</nanos>
   <sequence>0</sequence>
   <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>Initializing ProtocolHandler ["http-nio-auto-1"]</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:41.106480795Z</date>
-  <millis>1667815901106</millis>
-  <nanos>480795</nanos>
+  <date>2022-11-07T12:12:34.617385397Z</date>
+  <millis>1667823154617</millis>
+  <nanos>385397</nanos>
   <sequence>1</sequence>
   <logger>org.apache.tomcat.util.net.NioSelectorPool</logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>Using a shared selector for servlet write/read</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:41.120072585Z</date>
-  <millis>1667815901120</millis>
-  <nanos>72585</nanos>
+  <date>2022-11-07T12:12:34.629600942Z</date>
+  <millis>1667823154629</millis>
+  <nanos>600942</nanos>
   <sequence>2</sequence>
   <logger>org.apache.catalina.core.StandardService</logger>
   <level>INFO</level>
@@ -38,9 +38,9 @@
   <message>Starting service [Tomcat]</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:41.121143119Z</date>
-  <millis>1667815901121</millis>
-  <nanos>143119</nanos>
+  <date>2022-11-07T12:12:34.630790734Z</date>
+  <millis>1667823154630</millis>
+  <nanos>790734</nanos>
   <sequence>3</sequence>
   <logger>org.apache.catalina.core.StandardEngine</logger>
   <level>INFO</level>
@@ -50,21 +50,21 @@
   <message>Starting Servlet engine: [Apache Tomcat/8.5.69]</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:41.193436780Z</date>
-  <millis>1667815901193</millis>
-  <nanos>436780</nanos>
+  <date>2022-11-07T12:12:34.706478229Z</date>
+  <millis>1667823154706</millis>
+  <nanos>478229</nanos>
   <sequence>4</sequence>
   <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
   <level>INFO</level>
   <class>org.apache.coyote.AbstractProtocol</class>
   <method>start</method>
   <thread>1</thread>
-  <message>Starting ProtocolHandler ["http-nio-auto-1-32885"]</message>
+  <message>Starting ProtocolHandler ["http-nio-auto-1-42175"]</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.221750052Z</date>
-  <millis>1667815902221</millis>
-  <nanos>750052</nanos>
+  <date>2022-11-07T12:12:35.724775531Z</date>
+  <millis>1667823155724</millis>
+  <nanos>775531</nanos>
   <sequence>5</sequence>
   <logger>exercise.servlet.SessionServlet</logger>
   <level>INFO</level>
@@ -74,81 +74,81 @@
   <message>lavern.keeling@gmail.com</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.325672763Z</date>
-  <millis>1667815902325</millis>
-  <nanos>672763</nanos>
+  <date>2022-11-07T12:12:35.775853414Z</date>
+  <millis>1667823155775</millis>
+  <nanos>853414</nanos>
   <sequence>6</sequence>
   <logger>exercise.servlet.SessionServlet</logger>
   <level>INFO</level>
   <class>exercise.servlet.SessionServlet</class>
   <method>login</method>
-  <thread>25</thread>
+  <thread>27</thread>
   <message>shoshana.haley@hotmail.com</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.340900453Z</date>
-  <millis>1667815902340</millis>
-  <nanos>900453</nanos>
+  <date>2022-11-07T12:12:35.787934525Z</date>
+  <millis>1667823155787</millis>
+  <nanos>934525</nanos>
   <sequence>7</sequence>
   <logger>exercise.servlet.SessionServlet</logger>
   <level>INFO</level>
   <class>exercise.servlet.SessionServlet</class>
   <method>login</method>
-  <thread>27</thread>
+  <thread>29</thread>
   <message>suzann.barrows@hotmail.com</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.400406974Z</date>
-  <millis>1667815902400</millis>
-  <nanos>406974</nanos>
+  <date>2022-11-07T12:12:35.847146308Z</date>
+  <millis>1667823155847</millis>
+  <nanos>146308</nanos>
   <sequence>8</sequence>
   <logger>exercise.servlet.SessionServlet</logger>
   <level>INFO</level>
   <class>exercise.servlet.SessionServlet</class>
   <method>login</method>
-  <thread>29</thread>
+  <thread>21</thread>
   <message>lavern.keeling@gmail.com</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.481551355Z</date>
-  <millis>1667815902481</millis>
-  <nanos>551355</nanos>
+  <date>2022-11-07T12:12:35.916521284Z</date>
+  <millis>1667823155916</millis>
+  <nanos>521284</nanos>
   <sequence>9</sequence>
   <logger>exercise.servlet.SessionServlet</logger>
   <level>INFO</level>
   <class>exercise.servlet.SessionServlet</class>
   <method>login</method>
-  <thread>23</thread>
+  <thread>25</thread>
   <message>lavern.keeling@gmail.com</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.519243733Z</date>
-  <millis>1667815902519</millis>
-  <nanos>243733</nanos>
+  <date>2022-11-07T12:12:35.938151493Z</date>
+  <millis>1667823155938</millis>
+  <nanos>151493</nanos>
   <sequence>10</sequence>
   <logger>exercise.servlet.SessionServlet</logger>
   <level>INFO</level>
   <class>exercise.servlet.SessionServlet</class>
   <method>login</method>
-  <thread>27</thread>
+  <thread>28</thread>
   <message>lavern.keeling@gmail.com</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.533803192Z</date>
-  <millis>1667815902533</millis>
-  <nanos>803192</nanos>
+  <date>2022-11-07T12:12:35.961594341Z</date>
+  <millis>1667823155961</millis>
+  <nanos>594341</nanos>
   <sequence>11</sequence>
   <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
   <level>INFO</level>
   <class>org.apache.coyote.AbstractProtocol</class>
   <method>pause</method>
   <thread>1</thread>
-  <message>Pausing ProtocolHandler ["http-nio-auto-1-32885"]</message>
+  <message>Pausing ProtocolHandler ["http-nio-auto-1-42175"]</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.536013853Z</date>
-  <millis>1667815902536</millis>
-  <nanos>13853</nanos>
+  <date>2022-11-07T12:12:35.963202280Z</date>
+  <millis>1667823155963</millis>
+  <nanos>202280</nanos>
   <sequence>12</sequence>
   <logger>org.apache.catalina.core.StandardService</logger>
   <level>INFO</level>
@@ -158,9 +158,9 @@
   <message>Stopping service [Tomcat]</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.560106810Z</date>
-  <millis>1667815902560</millis>
-  <nanos>106810</nanos>
+  <date>2022-11-07T12:12:35.970333058Z</date>
+  <millis>1667823155970</millis>
+  <nanos>333058</nanos>
   <sequence>13</sequence>
   <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
   <level>WARNING</level>
@@ -170,9 +170,9 @@
   <message>When running on Java 9 or later you need to add "--add-opens=java.base/java.io=null" to the JVM command line arguments to enable ObjectStream cache memory leak protection. Alternatively, you can suppress this warning by disabling ObjectStream class cache memory leak protection.</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.565108102Z</date>
-  <millis>1667815902565</millis>
-  <nanos>108102</nanos>
+  <date>2022-11-07T12:12:35.972592672Z</date>
+  <millis>1667823155972</millis>
+  <nanos>592672</nanos>
   <sequence>14</sequence>
   <logger>org.apache.catalina.loader.WebappClassLoaderBase</logger>
   <level>WARNING</level>
@@ -182,15 +182,15 @@
   <message>When running on Java 9 or later you need to add "--add-opens=java.rmi/sun.rmi.transport=null" to the JVM command line arguments to enable RMI Target memory leak detection. Alternatively, you can suppress this warning by disabling RMI Target memory leak detection.</message>
 </record>
 <record>
-  <date>2022-11-07T10:11:42.567814795Z</date>
-  <millis>1667815902567</millis>
-  <nanos>814795</nanos>
+  <date>2022-11-07T12:12:35.974067510Z</date>
+  <millis>1667823155974</millis>
+  <nanos>67510</nanos>
   <sequence>15</sequence>
   <logger>org.apache.coyote.http11.Http11NioProtocol</logger>
   <level>INFO</level>
   <class>org.apache.coyote.AbstractProtocol</class>
   <method>stop</method>
   <thread>1</thread>
-  <message>Stopping ProtocolHandler ["http-nio-auto-1-32885"]</message>
+  <message>Stopping ProtocolHandler ["http-nio-auto-1-42175"]</message>
 </record>
 </log>
