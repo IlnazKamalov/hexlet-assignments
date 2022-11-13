@@ -1,28 +1,20 @@
 package exercise;
 
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.Test;
-
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.nio.file.Path;
-
-
-import static org.assertj.core.api.Assertions.assertThat;
-
-import kong.unirest.HttpResponse;
-import kong.unirest.Unirest;
-import io.javalin.Javalin;
-import io.ebean.DB;
-import io.ebean.Transaction;
-
 import exercise.domain.User;
 import exercise.domain.query.QUser;
+import io.ebean.DB;
+import io.ebean.Transaction;
+import io.javalin.Javalin;
+import kong.unirest.HttpResponse;
+import kong.unirest.Unirest;
+import org.junit.jupiter.api.*;
 
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 class AppTest {
 
@@ -107,23 +99,23 @@ class AppTest {
     }
 
     @Test
-    void testCreate() {
+    void testCreate() throws Exception {
 
-        // String body = readFixture("newUser.json");
+         String body = readFixture("newUser.json");
 
-        // HttpResponse<String> responsePost = Unirest
-        //     .post(baseUrl + "/users")
-        //     .header("Content-Type", "application/json")
-        //     .body(body)
-        //     .asEmpty();
+         HttpResponse responsePost = Unirest
+             .post(baseUrl + "/users")
+             .header("Content-Type", "application/json")
+             .body(body)
+             .asEmpty();
 
-        User user = new User("Aleksandr", "Beloff", "albel@hotmail.com", "12344321");
-
-        HttpResponse<String> responsePost = Unirest
-            .post(baseUrl + "/users")
-            .header("Content-Type", "application/json")
-            .body(user)
-            .asEmpty();
+        //User user = new User("Aleksandr", "Beloff", "albel@hotmail.com", "12344321");
+//
+        //HttpResponse<String> responsePost = Unirest
+        //    .post(baseUrl + "/users")
+        //    .header("Content-Type", "application/json")
+        //    .body(user)
+        //    .asEmpty();
 
         assertThat(responsePost.getStatus()).isEqualTo(200);
 
