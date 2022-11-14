@@ -76,11 +76,11 @@ class AppTest {
 
         String firstName = "Ilnaz";
         String lastName = "Kamalov";
-        String email = "ilnaz@gmail.com";
+        String email = "ilnaz1234@gmail.com";
         String password = "12345";
 
         HttpResponse<String> httpResponse = Unirest
-                .post(baseUrl ="/users/")
+                .post(baseUrl + "/users/")
                 .field("firstName", firstName)
                 .field("lastName", lastName)
                 .field("email", email)
@@ -106,11 +106,11 @@ class AppTest {
 
         String firstName = "Ilnaz";
         String lastName = "";
-        String email = "ilnaz@gmail.com";
+        String email = "ilnaz1234@gmail.com";
         String password = "12345";
 
         HttpResponse<String> httpResponse = Unirest
-                .post(baseUrl ="/users/")
+                .post(baseUrl + "/users/")
                 .field("firstName", firstName)
                 .field("lastName", lastName)
                 .field("email", email)
