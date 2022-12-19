@@ -14,16 +14,12 @@ public class Person {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Getter
-    @Setter
     private long id;
 
     // BEGIN
-    @Getter
-    @Setter
-    private String firstname;
-    @Getter
-    @Setter
-    private String lastname;
+    @Getter @Setter
+    private String firstName;
+    @Getter @Setter
+    private String lastName;
     // END
 }
