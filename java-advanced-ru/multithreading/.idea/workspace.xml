@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53e08387-8491-49a8-9c67-888a94b39daa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/process" beforeDir="false" afterPath="$PROJECT_DIR$/process" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/App.java" afterDir="false" />
@@ -97,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672392185932</updated>
       <workItem from="1672392187188" duration="2879000" />
-      <workItem from="1672404507628" duration="20000" />
+      <workItem from="1672404507628" duration="662000" />
     </task>
     <servers />
   </component>
