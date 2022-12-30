@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53e08387-8491-49a8-9c67-888a94b39daa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/process" beforeDir="false" afterPath="$PROJECT_DIR$/process" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading_30.12.22_15.45.34/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Flat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/ReversedSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/ReversedSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authentication/src/main/java/exercise/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authentication/src/main/java/exercise/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authorization/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authorization/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/hexlet.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/hexlet.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/hexlet.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/test/java/exercise/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/migrations/src/main/resources/db/changelog/changelog-master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/migrations/src/main/resources/db/changelog/changelog-master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/nested-resources/src/main/java/exercise/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/nested-resources/src/main/java/exercise/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/relations/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/relations/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/controller/CityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/controller/CityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/repository/CityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/repository/CityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/service/WeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/service/WeatherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/spring-orm/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/spring-orm/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/trees/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/trees/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/trees/src/main/java/exercise/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/trees/src/main/java/exercise/controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/session/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/session/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/validation/src/main/java/exercise/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/validation/src/main/java/exercise/controllers/UserController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JczVnKu3ntffPbsNFDoOIGkdF7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ilnazkamalov/Hexlet/hexlet-assignments/java-advanced-ru/multithreading",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53e08387-8491-49a8-9c67-888a94b39daa" name="Changes" comment="" />
+      <created>1672392185932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672392185932</updated>
+      <workItem from="1672392187188" duration="2879000" />
+      <workItem from="1672404507628" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
