@@ -1,5 +1,6 @@
 package exercise;
 
+import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -35,7 +36,7 @@ public class AppTest {
 
     // BEGIN
     @Container
-    private static final PostgreSQLContainer<?> DATABASE = new PostgreSQLContainer<>("postgres")
+    private static final PostgreSQLContainer<?> database = new PostgreSQLContainer<>("postgres")
             .withDatabaseName("dbName")
             .withUsername("sa")
             .withPassword("sa")
@@ -44,9 +45,9 @@ public class AppTest {
     @DynamicPropertySource
     public static void properties(DynamicPropertyRegistry registry) {
 
-        registry.add("spring.datasource.url", DATABASE::getJdbcUrl);
-        registry.add("spring.datasource.username", DATABASE::getUsername);
-        registry.add("spring.datasource.password", DATABASE::getPassword);
+        registry.add("spring.datasource.url", database::getJdbcUrl);
+        registry.add("spring.datasource.username", database::getUsername);
+        registry.add("spring.datasource.password", database::getPassword);
     }
 
     @Test
@@ -114,7 +115,7 @@ public class AppTest {
 
         MockHttpServletResponse responseDelete = mockMvc
                 .perform(
-                        delete("/people/1")
+                delete("/people/1")
                 )
                 .andReturn()
                 .getResponse();
@@ -136,6 +137,7 @@ public class AppTest {
 
     @Test
     void testCreatePerson() throws Exception {
+
         MockHttpServletResponse responsePost = mockMvc
             .perform(
                 post("/people")
@@ -155,5 +157,10 @@ public class AppTest {
         assertThat(response.getStatus()).isEqualTo(200);
         assertThat(response.getContentType()).isEqualTo(MediaType.APPLICATION_JSON.toString());
         assertThat(response.getContentAsString()).contains("Jackson", "Bind");
+    }
+
+    @AfterAll
+    public static void stop() {
+        database.stop();
     }
 }

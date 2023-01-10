@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d90faca7-0b34-4b21-ab6a-92fe14991073" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../asynchrony/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../asynchrony/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynchrony/src/main/java/exercise/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../asynchrony/src/main/java/exercise/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asynchrony/src/test/java/exercise/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../asynchrony/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sync-primitives/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sync-primitives/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sync-primitives/src/main/java/exercise/ListThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sync-primitives/src/main/java/exercise/ListThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sync-primitives/src/main/java/exercise/SafetyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sync-primitives/src/main/java/exercise/SafetyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/test-container.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.html" beforeDir="false" afterPath="$PROJECT_DIR$/README.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/presentation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/presentation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercise/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-containers_10.01.23_15.43.20/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test-containers_10.01.23_15.43.20/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test-containers_10.01.23_15.43.20/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test-containers_10.01.23_15.43.20/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Flat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/ReversedSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces_20.10.22_11.15.21/src/main/java/exercise/ReversedSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authentication/src/main/java/exercise/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authentication/src/main/java/exercise/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authorization/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authorization/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/authorization/src/main/java/exercise/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/hexlet.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/hexlet.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/hexlet.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/controller/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/controller/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/main/java/exercise/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/test/java/exercise/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/filtration/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/migrations/hexlet.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/migrations/src/main/resources/db/changelog/changelog-master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/migrations/src/main/resources/db/changelog/changelog-master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/nested-resources/src/main/java/exercise/controller/CommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/nested-resources/src/main/java/exercise/controller/CommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/relations/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/relations/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/controller/CityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/controller/CityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/repository/CityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/repository/CityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/service/WeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/service-layer/src/main/java/exercise/service/WeatherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/spring-orm/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/spring-orm/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/trees/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/trees/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-spring-ru/trees/src/main/java/exercise/controller/CourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-spring-ru/trees/src/main/java/exercise/controller/CourseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/session/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/session/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-web-ru/validation/src/main/java/exercise/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-web-ru/validation/src/main/java/exercise/controllers/UserController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="test-containers" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="test-containers" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K2viaSazYwUYxxaEVvF6atvZlG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ilnazkamalov/Hexlet/hexlet-assignments/java-advanced-ru/test-containers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "6c090de559c0da998af38b9de5bce0c3",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.AppTest.testGetPersons">
+    <configuration name="AppTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.AppTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testDeletePerson" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.AppTest.testDeletePerson&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testGetPersons" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.AppTest.testGetPersons&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testPatchPerson" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.AppTest.testPatchPerson&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AppTest.testUpdatePerson" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;exercise.AppTest.testUpdatePerson&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="test-container" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="test-container" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="test-container.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="exercise.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AppTest.testGetPersons" />
+        <item itemvalue="Gradle.AppTest" />
+        <item itemvalue="Gradle.AppTest.testUpdatePerson" />
+        <item itemvalue="Gradle.AppTest.testDeletePerson" />
+        <item itemvalue="Gradle.AppTest.testPatchPerson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90faca7-0b34-4b21-ab6a-92fe14991073" name="Changes" comment="" />
+      <created>1673185620234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673185620234</updated>
+      <workItem from="1673185621407" duration="1503000" />
+      <workItem from="1673242045205" duration="8278000" />
+      <workItem from="1673338988071" duration="705000" />
+      <workItem from="1673354493320" duration="126000" />
+      <workItem from="1673354932545" duration="337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
