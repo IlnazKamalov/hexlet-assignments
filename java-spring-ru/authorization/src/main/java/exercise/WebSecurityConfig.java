@@ -32,9 +32,10 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers(POST, "/").permitAll()
                 .antMatchers(GET, "/users").hasAnyAuthority
                         (UserRole.USER.name(), UserRole.ADMIN.name())
-                .antMatchers(DELETE,"/users/{id}").hasAuthority
+                .antMatchers(DELETE, "/users/{id}").hasAuthority
                         (UserRole.ADMIN.name())
                 .and().httpBasic();
+
         // END
     }
 

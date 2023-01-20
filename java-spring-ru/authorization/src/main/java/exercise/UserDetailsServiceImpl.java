@@ -4,6 +4,7 @@ import exercise.model.User;
 import exercise.model.UserRole;
 import exercise.repository.UserRepository;
 
+import liquibase.pro.packaged.U;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -28,12 +29,12 @@ public class UserDetailsServiceImpl implements UserDetailsService {
 
         UserRole userRole = user.getRole();
 
-        List<SimpleGrantedAuthority> authorities = List
-                .of(new SimpleGrantedAuthority(userRole.toString()));
+        List<SimpleGrantedAuthority> authorities = List.of(new SimpleGrantedAuthority(userRole.toString()));
 
         return new org.springframework.security.core.userdetails.User
                 (user.getEmail(),
-                        user.getPassword(), authorities);
+                        user.getPassword(),
+                        authorities);
         // END
     }
 }
